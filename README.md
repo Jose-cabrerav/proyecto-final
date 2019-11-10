@@ -7,24 +7,31 @@ Ion Water Page
 Proyecto para Terceros
 
 ## Descripción breve del proyecto:
-### ¿Quiénes son los usuarios?
+## ¿Quiénes son los usuarios?
       los usuarios son: empresas y personas naturales
-### ¿Cuál debería ser la conversión de éstos?
+## ¿Cuál debería ser la conversión de éstos?
       interioriorizar al interes de la compra
 
 <br />
-
+### Sketch General:
 ***
 ![alt tag](https://lh3.googleusercontent.com/F2p1oi8xq73abhtJCTCSx_GUrvj8UwCVCYpKkjGrZe7Z1myCq7-ob47lt97__yC7BZ6-VS2omhMw-DumoFQ9rJrCQWTVIyNR_cBtFKIQio2Y150j49i7j_lHXQUsMZsC20LUqAoOii7Onwp3pOLtcpcqbqc-0ComC0KEMa_k10_myN6fLx4a48hjD4GUYasf8dWpRcfG8p2_jHd4GmnjPUrtSWqztoemwULML7b30OQ5p9gVkAd5XOzbX8iFlXPd5FHsir4qzQe61ICENa3Z3UgJhrrRvWom98oQpxoijJAK3qyJxAITVK7hsDBXdEDVla0AvOJleD5GrgjwqRGxdg8LIEQXJQEZbsM93G4Nhv7mCAf2iW1oAXVSIF7HSetXCnl969_Md9AU7ws6GM4XIqYscjjob-9mVWkyxAKV2az5FjFhqUUNVvQFJRJDPGmDW6QHpjUd4t5-fEhHb1aeOAfdXqo3ho2b0k8iJSWOix3C3E56Qd1pP3cpTdIRtW01IhBzHzbX1Evvk1_xTsmtOzt4Y1dKoxd-Zh66VztNpGa1Eh87HJkzhqJLe3RjXw3zX5POPhfxDjxjf9pYUrxqq8MLpkZ3FSieJamFUDygZ_xCHbpjwwY28ta2ZRA38_M9lIEA8DIyI5HRmaqOumt3T-26mMJUhY8ER1GNRy5nEHuCzPpXV2y5qg=w437-h470-no)
 ***
 
 <br />
 
-Este comando instalará, dentro de la carpeta `_webpack/node_modules`, todas las dependencias necesarias para la ejecución de Webpack y sus herramientas, por lo tanto es absolutamente necesario que el comando se realize en el anteriormente comentado lugar.
+# Guia de Estilos:
 
-
-Una vez instalado Webpack estará todo listo para comenzar a trabajar, por lo que podremos utilizar dos comandos:
-
+## Colores Utilizados:
+  -#fff (white)
+  -#03A9F4
+  -#2980B9
+  -#def1f0
+## Tipografias Utilizadas:
+      -Roboto:
+            ### Light, Regular
+            
+           
 - Start: con el comando `npm run start` (o su atajo: `npm start`) iniciaremos el servidor y a su vez se abrirá el navegador por defecto para que podamos ir viendo los cambios que se vayan realizando. Es importante destacar que este comando quedará esperando cada cambio que se realice en los archivos, por ende deberá seguir ejecutándose indefinidamente. Si queremos detener su ejecución utilizaremos la combinación de teclas: `control + c` y para reiniciar volveremos a usar el comando `npm run start`.
 - Build: el comando `npm run build` minifica tanto los archivos js como css, dejando todo listo para subir a producción.
 

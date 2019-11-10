@@ -25,24 +25,18 @@ Proyecto para Terceros
 # Guia de Estilos:
 
 ## Colores Utilizados:
-  -#fff (white)
-  -#03A9F4
-  -#2980B9
-  -#def1f0
+      -#fff -#03A9F4 -#2980B9 -#def1f0
   
 ## Tipografias Utilizadas:
       -Roboto: Light, Regular
+
 ## Isotipo:
 <br />
-
-***
 <p align="left"> <img src="https://s3.amazonaws.com/storage.wobiz.com/117/117645/images/Original/1537987904_239dc61242a3ce62bf90b7f294848311.117645.png" width="200"/> </p>
-***
-
 <br />
 
+<br />
 Jose Pablo Cabrera:
- <p align="left"> <img src="https://lh3.googleusercontent.com/a-/AAuE7mAcWh3cWGlzPmPTTdMM3i43nmnz__xjz-ux7zSm=s384-cc" width="100"/> </p>
+ <p align="left"> <img src="https://lh3.googleusercontent.com/a-/AAuE7mAcWh3cWGlzPmPTTdMM3i43nmnz__xjz-ux7zSm=s384-cc" width="70"/> </p>
  Diseñador y Programador WEB.
- 
 <br />

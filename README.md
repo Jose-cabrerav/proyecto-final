@@ -1,7 +1,7 @@
 # Proyecto Final Desarrolo Web Desafio Latam
 
 ## Nombre del proyecto:
-Ion Water Page
+IonWater Page
 
 ## ¿Es un proyecto personal o para un tercero?
 Proyecto para Terceros

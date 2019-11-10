@@ -34,7 +34,7 @@ Proyecto para Terceros
 <br />
 
 <br />
-### Jose Pablo Cabrera:
+## Jose Pablo Cabrera:
  <p align="left"> <img src="https://lh3.googleusercontent.com/a-/AAuE7mAcWh3cWGlzPmPTTdMM3i43nmnz__xjz-ux7zSm=s384-cc" width="70"/> </p>
  Diseñador y Programador WEB.
 <br />

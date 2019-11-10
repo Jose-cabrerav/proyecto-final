@@ -4,7 +4,7 @@
   margin-bottom: 15px 0;
   z-index: 1;
   position: relative;
-  background: #03A9F4;
+  @include Cyan1;
   -webkit-box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.26);
   -moz-box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.26);
   -ms-box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.26);
@@ -25,12 +25,12 @@
   display: inline-block;
   position: relative;
   font-size: 14;
-  color: #fff;
+  @include white;
 }
 .nav-dsk li a {
   padding: 15px 20px;
   font-size: 14;
-  color: #fff;
+  @include white;
   display: inline-block;
   outline: 0;
   font-weight: 400;
@@ -42,7 +42,7 @@
   position: absolute;
   display: none;
   width: 200px;
-  background: #2980B9;
+  @include Cyan2;
   -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
   -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
   -ms-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
@@ -57,7 +57,7 @@
 .nav-dsk li ul.dropdown li a {
   padding: 15px 20px;
   font-size: 15px;
-  color: #fff;
+  @include white;
   display: block;
   font-weight: 400;
 }
@@ -66,7 +66,7 @@
 }
 .nav-dsk li:hover a {
   background: #2980B9;
-  color: #fff;
+  @include white;
   text-decoration: none;
 }
 .nav-dsk li:first-child:hover a {

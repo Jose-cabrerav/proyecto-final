@@ -43,10 +43,5 @@ Proyecto para Terceros
 
 Jose Pablo Cabrera
 <br />
-
-***
-![alt tag](
-https://lh3.googleusercontent.com/a-/AAuE7mAcWh3cWGlzPmPTTdMM3i43nmnz__xjz-ux7zSm=s384-cc)
-***
-
-<br />
+ <p align="center"> <img src="https://lh3.googleusercontent.com/a-/AAuE7mAcWh3cWGlzPmPTTdMM3i43nmnz__xjz-ux7zSm=s384-cc" width="350"/> 
+</p> 
